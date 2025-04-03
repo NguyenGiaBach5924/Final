@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^10.0.5",
+    "@react-three/fiber": "^9.1.1",
+    "framer-motion": "^12.6.3",
+    "react-router-dom": "^7.4.1",
+    "three": "^0.175.0"
+  }
+}
